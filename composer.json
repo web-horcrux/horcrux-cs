@@ -1,5 +1,5 @@
 {
-  "name": "webhorcrux/webhorcrux-cs",
+  "name": "web-horcrux/webhorcrux-cs",
   "description": "PHP_CodeSniffer rules (sniffs) to enforce WebHorcrux coding standards",
   "keywords": [
     "phpcs",
